@@ -66,4 +66,4 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 .idea/workspace.xml
-src/
+/.idea/
